@@ -81,7 +81,7 @@
  - Linguagem de Programação:
    - JavaScript
    
- - Frameworkes:
+ - Frameworks:
    - React
    - Redux
    - Express
